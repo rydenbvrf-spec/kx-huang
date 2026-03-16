@@ -1,1 +1,1 @@
-# kx-huang
+# 学术写作prompt
